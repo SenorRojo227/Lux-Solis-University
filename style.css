@@ -1,0 +1,68 @@
+body {
+  background-color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sideBtn {
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 0;
+  width: 125;
+  height: 125;
+  transition: 0.5s;
+  background-color: hsl(200, 55%, 15%);
+  border-radius: 0px 20px 20px 0px;
+}
+
+.sideBtn:hover {
+  background-color: hsl(200, 55%, 30%);
+}
+
+.sideNav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.sideNav > div {
+  margin: 0;
+  height: 25%;
+  text-align: center;
+  background-color: hsl(180, 50%, 80%);
+  transition: 0.5s;
+}
+
+.sideNav div:hover {
+  background-color: hsl(186, 50%, 50%);
+}
+
+.cubzeroImg {
+  margin: 5 auto;
+  height: 50%;
+  width: auto;
+  padding: 5;
+  background-image: url(resources/Cubzero.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.cubzeroImg:hover {
+  background-image: url(resources/Cubzero.gif);
+}
+
+.sideNav div h2 {
+  color: hsl(180, 50%, 30%);
+  font-size: 25px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
