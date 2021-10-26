@@ -1,28 +1,30 @@
 body {
   background-color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: 0.5s;
 }
 
 .sideBtn {
   position: fixed;
   z-index: 1;
-  top: 20px;
+  top: 50px;
   left: 0;
-  width: 125;
-  height: 125;
+  width: 110px;
+  height: 110px;
   transition: 0.5s;
   background-color: hsl(200, 55%, 15%);
   border-radius: 0px 20px 20px 0px;
 }
 
 .sideBtn:hover {
-  background-color: hsl(200, 55%, 30%);
+  padding-left: 15px;
 }
 
 .sideNav {
   height: 100%;
   width: 0;
   position: fixed;
+  border-right: solid 5px hsl(200, 55%, 15%);
   z-index: 2;
   top: 0;
   left: 0;
@@ -30,7 +32,7 @@ body {
   transition: 0.5s;
 }
 
-.sideNav > div {
+.sideNav div {
   margin: 0;
   height: 25%;
   text-align: center;
@@ -42,27 +44,46 @@ body {
   background-color: hsl(186, 50%, 50%);
 }
 
-.cubzeroImg {
-  margin: 5 auto;
-  height: 50%;
-  width: auto;
-  padding: 5;
-  background-image: url(resources/Cubzero.png);
+.icon {
   background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
+  background-size: 35%;
+  background-position: 50% 10%;
+  transition: background-size 0.5s;
 }
 
-.cubzeroImg:hover {
-  background-image: url(resources/Cubzero.gif);
+.icon:hover {
+  background-size: 40%;
+}
+
+.home {
+  background-image: url(resources/HomeShadow.png);
+}
+
+.home:hover {
+  background-image: url(resources/HomeShadow.gif);
+}
+
+.coromon {
+  background-image: url(resources/CubzeroShadow.png);
+}
+
+.coromon:hover {
+  background-image: url(resources/CubzeroShadow.gif);
 }
 
 .sideNav div h2 {
+  margin: 0;
   color: hsl(180, 50%, 30%);
+  position: relative;
+  padding: 45% 0 0 0;
   font-size: 25px;
+}
+
+main {
+  margin-left: 125px;
 }
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidenav h2 {font-size: 18px;}
 }
