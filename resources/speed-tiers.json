@@ -1,0 +1,120 @@
+{
+    "Demo":
+    {
+        "CBF":
+        {
+            "Tier 0: Fastest to 75":
+            [
+                {"Speed": 112, "Coromon": "Lunarwulf", "Base Stat": 190, "Investment": 60, "Boosts": "0"},
+                {"Speed": 105, "Coromon": "Embaval", "Base Stat": 160, "Investment": 60, "Boosts": "0"},
+                {"Speed": 105, "Coromon": "Lampyre", "Base Stat": 160, "Investment": 60, "Boosts": "0"},
+                {"Speed": 100, "Coromon": "Beezel", "Base Stat": 140, "Investment": 60, "Boosts": "0"},
+                {"Speed": 100, "Coromon": "Gildwing", "Base Stat": 140, "Investment": 60, "Boosts": "0"},
+                {"Speed": 100, "Coromon": "Mino", "Base Stat": 140, "Investment": 60, "Boosts": "0"},
+                {"Speed": 97, "Coromon": "Houndos", "Base Stat": 130, "Investment": 60, "Boosts": "0"},
+                {"Speed": 95, "Coromon": "Aroara", "Base Stat": 120, "Investment": 60, "Boosts": "0"},
+                {"Speed": 95, "Coromon": "Slitherpin", "Base Stat": 120, "Investment": 60, "Boosts": "0"},
+                {"Speed": 95, "Coromon": "Pitterbyte", "Base Stat": 120, "Investment": 60, "Boosts": "0"},
+                {"Speed": 91, "Coromon": "Digmow", "Base Stat": 106, "Investment": 60, "Boosts": "0"},
+                {"Speed": 90, "Coromon": "Froshell", "Base Stat": 100, "Investment": 60, "Boosts": "0"},
+                {"Speed": 87, "Coromon": "Bazzer", "Base Stat": 90, "Investment": 60, "Boosts": "0"},
+                {"Speed": 85, "Coromon": "Armadil", "Base Stat": 80, "Investment": 60, "Boosts": "0"}
+            ],
+            "Tier 1: 74 to Slowest":
+            [
+                {"Speed": 52, "Coromon": "Lunarwulf", "Base Stat": 190, "Investment": 0, "Boosts": "0"},
+                {"Speed": 45, "Coromon": "Embaval", "Base Stat": 160, "Investment": 0, "Boosts": "0"},
+                {"Speed": 45, "Coromon": "Lampyre", "Base Stat": 160, "Investment": 0, "Boosts": "0"},
+                {"Speed": 40, "Coromon": "Beezel", "Base Stat": 140, "Investment": 0, "Boosts": "0"},
+                {"Speed": 40, "Coromon": "Gildwing", "Base Stat": 140, "Investment": 0, "Boosts": "0"},
+                {"Speed": 40, "Coromon": "Mino", "Base Stat": 140, "Investment": 0, "Boosts": "0"},
+                {"Speed": 37, "Coromon": "Houndos", "Base Stat": 130, "Investment": 0, "Boosts": "0"},
+                {"Speed": 35, "Coromon": "Aroara", "Base Stat": 120, "Investment": 0, "Boosts": "0"},
+                {"Speed": 35, "Coromon": "Slitherpin", "Base Stat": 120, "Investment": 0, "Boosts": "0"},
+                {"Speed": 35, "Coromon": "Pitterbyte", "Base Stat": 120, "Investment": 0, "Boosts": "0"},
+                {"Speed": 34, "Coromon": "Sheartooth", "Base Stat": 116, "Investment": 0, "Boosts": "0"},
+                {"Speed": 31, "Coromon": "Digmow", "Base Stat": 106, "Investment": 0, "Boosts": "0"},
+                {"Speed": 30, "Coromon": "Froshell", "Base Stat": 100, "Investment": 0, "Boosts": "0"},
+                {"Speed": 27, "Coromon": "Bazzer", "Base Stat": 90, "Investment": 0, "Boosts": "0"},
+                {"Speed": 27, "Coromon": "Gauslime", "Base Stat": 90, "Investment": 0, "Boosts": "0"},
+                {"Speed": 25, "Coromon": "Armadil", "Base Stat": 80, "Investment": 0, "Boosts": "0"}
+            ]
+        }    
+    },
+
+    "S1":
+    {
+        "3v3 OU":
+        {
+            "Tier 0: Fastest to 150":
+            [
+                {"Speed": 272, "Coromon": "Dugterra", "Base Stat": 142, "Investment": 60, "Boosts": "+2"},
+                {"Speed": 219, "Coromon": "Daricara", "Base Stat": 161, "Investment": 60, "Boosts": "+1"},
+                {"Speed": 219, "Coromon": "Glamoth", "Base Stat": 161, "Investment": 60, "Boosts": "+1"},
+                {"Speed": 198, "Coromon": "Kyraptor", "Base Stat": 68, "Investment": 60, "Boosts": "+2"},
+                {"Speed": 180, "Coromon": "Sandril", "Base Stat": 109, "Investment": 60, "Boosts": "+1"},
+                {"Speed": 178, "Coromon": "Lumasect", "Base Stat": 224, "Investment": 60, "Boosts": "0"},
+                {"Speed": 177, "Coromon": "Eclyptor", "Base Stat": 223, "Investment": 60, "Boosts": "0"},
+                {"Speed": 173, "Coromon": "Octotle", "Base Stat": 214, "Investment": 60, "Boosts": "0"},
+                {"Speed": 172, "Coromon": "Blazitaur", "Base Stat": 212, "Investment": 60, "Boosts": "0"},
+                {"Speed": 170, "Coromon": "Golbeak", "Base Stat": 208, "Investment": 60, "Boosts": "0"},
+                {"Speed": 166, "Coromon": "Magmilus", "Base Stat": 201, "Investment": 60, "Boosts": "0"},
+                {"Speed": 165, "Coromon": "Volcadon", "Base Stat": 199, "Investment": 60, "Boosts": "0"},
+                {"Speed": 164, "Coromon": "Hountrion", "Base Stat": 197, "Investment": 60, "Boosts": "0"},
+                {"Speed": 159, "Coromon": "Serpike", "Base Stat": 188, "Investment": 60, "Boosts": "0"},
+                {"Speed": 158, "Coromon": "Humbee", "Base Stat": 185, "Investment": 60, "Boosts": "0"},
+                {"Speed": 157, "Coromon": "Swampa", "Base Stat": 183, "Investment": 60, "Boosts": "0"},
+                {"Speed": 156, "Coromon": "Purrghast", "Base Stat": 182, "Investment": 60, "Boosts": "0"},
+                {"Speed": 152, "Coromon": "Toravolt", "Base Stat": 174, "Investment": 60, "Boosts": "0"}
+            ],
+            "Tier 1: 149 to 100":
+            [
+                {"Speed": 147, "Coromon": "Gelaquad", "Base Stat": 164, "Investment": 60, "Boosts": "0"},
+                {"Speed": 146, "Coromon": "Caradune", "Base Stat": 162, "Investment": 60, "Boosts": "0"},
+                {"Speed": 146, "Coromon": "Glamoth", "Base Stat": 161, "Investment": 60, "Boosts": "0"},
+                {"Speed": 146, "Coromon": "Daricara", "Base Stat": 161, "Investment": 60, "Boosts": "0"},
+                {"Speed": 144, "Coromon": "Bearealis", "Base Stat": 158, "Investment": 60, "Boosts": "0"},
+                {"Speed": 143, "Coromon": "Megalobite", "Base Stat": 156, "Investment": 60, "Boosts": "0"},
+                {"Speed": 142, "Coromon": "Infinix", "Base Stat": 154, "Investment": 60, "Boosts": "0"},
+                {"Speed": 139, "Coromon": "Ucaclaw", "Base Stat": 148, "Investment": 60, "Boosts": "0"},
+                {"Speed": 139, "Coromon": "Arcturos", "Base Stat": 147, "Investment": 60, "Boosts": "0"},
+                {"Speed": 137, "Coromon": "Deecie", "Base Stat": 144, "Investment": 60, "Boosts": "0"},
+                {"Speed": 136, "Coromon": "Dugterra", "Base Stat": 142, "Investment": 60, "Boosts": "0"},
+                {"Speed": 134, "Coromon": "Atlantern", "Base Stat": 137, "Investment": 60, "Boosts": "0"},
+                {"Speed": 129, "Coromon": "Ashclops", "Base Stat": 128, "Investment": 60, "Boosts": "0"},
+                {"Speed": 129, "Coromon": "Glamoth", "Base Stat": 161, "Investment": 0, "Boosts": "+1"},
+                {"Speed": 126, "Coromon": "Grimmask", "Base Stat": 121, "Investment": 60, "Boosts": "0"},
+                {"Speed": 122, "Coromon": "Skelatops", "Base Stat": 114, "Investment": 60, "Boosts": "0"},
+                {"Speed": 121, "Coromon": "Mudma", "Base Stat": 112, "Investment": 60, "Boosts": "0"},
+                {"Speed": 120, "Coromon": "Sandril", "Base Stat": 109, "Investment": 60, "Boosts": "0"},
+                {"Speed": 109, "Coromon": "Armadon", "Base Stat": 88, "Investment": 60, "Boosts": "0"}
+            ],
+            "Tier 2: 99 to Slowest":
+            [
+                {"Speed": 99, "Coromon": "Kyraptor", "Base Stat": 68, "Investment": 60, "Boosts": "0"},
+                {"Speed": 99, "Coromon": "Serpike", "Base Stat": 188, "Investment": 0, "Boosts": "0"},
+                {"Speed": 98, "Coromon": "Humbee", "Base Stat": 185, "Investment": 60, "Boosts": "0"},
+                {"Speed": 86, "Coromon": "Glamoth", "Base Stat": 161, "Investment": 0, "Boosts": "0"},
+                {"Speed": 83, "Coromon": "Megalobite", "Base Stat": 156, "Investment": 0, "Boosts": "0"},
+                {"Speed": 79, "Coromon": "Ucaclaw", "Base Stat": 148, "Investment": 0, "Boosts": "0"},
+                {"Speed": 76, "Coromon": "Chonktoad", "Base Stat": 142, "Investment": 0, "Boosts": "0"},
+                {"Speed": 69, "Coromon": "Ashclops", "Base Stat": 128, "Investment": 0, "Boosts": "0"},
+                {"Speed": 67, "Coromon": "Malavite", "Base Stat": 124, "Investment": 0, "Boosts": "0"},
+                {"Speed": 66, "Coromon": "Grimmask", "Base Stat": 121, "Investment": 0, "Boosts": "0"},
+                {"Speed": 66, "Coromon": "Cyberite", "Base Stat": 121, "Investment": 0, "Boosts": "0"},
+                {"Speed": 64, "Coromon": "Krybeest", "Base Stat": 118, "Investment": 0, "Boosts": "0"},
+                {"Speed": 64, "Coromon": "Blizzian", "Base Stat": 118, "Investment": 0, "Boosts": "0"},
+                {"Speed": 64, "Coromon": "Magnamire", "Base Stat": 117, "Investment": 0, "Boosts": "0"},
+                {"Speed": 62, "Coromon": "Skelatops", "Base Stat": 114, "Investment": 0, "Boosts": "0"},
+                {"Speed": 61, "Coromon": "Mudma", "Base Stat": 112, "Investment": 0, "Boosts": "0"},
+                {"Speed": 60, "Coromon": "Sandril", "Base Stat": 109, "Investment": 0, "Boosts": "0"},
+                {"Speed": 56, "Coromon": "Rhynobuzz", "Base Stat": 102, "Investment": 0, "Boosts": "0"},
+                {"Speed": 55, "Coromon": "Orotchy", "Base Stat": 99, "Investment": 0, "Boosts": "0"},
+                {"Speed": 54, "Coromon": "Millidont", "Base Stat": 98, "Investment": 0, "Boosts": "0"},
+                {"Speed": 49, "Coromon": "Armadon", "Base Stat": 88, "Investment": 0, "Boosts": "0"},
+                {"Speed": 47, "Coromon": "Vulbrute", "Base Stat": 84, "Investment": 0, "Boosts": "0"},
+                {"Speed": 39, "Coromon": "Kyraptor", "Base Stat": 68, "Investment": 0, "Boosts": "0"}
+            ]
+        }
+    }
+}

@@ -1,0 +1,167 @@
+Eclyptor @ Dally Fruit
+Trait: Menacing
+60 SpA / 60 Spe / 6 SpD
+- Premonition / Ball of Darkness
+- Super Drain
+- Moonlight
+- Inner Peace
+
+Caradune @ Canul Fruit
+Trait: Menacing
+60 HP / 30 Def / 30 SpD / 5 Atk / 1 Spe
+- Stone Fist
+- Crunch
+- Poison Chomp
+- Turn Tail
+
+Bearealis @ Canul Fruit
+Trait: Clumsy Power
+60 HP / 30 Def / 30 SpD / 5 Atk / 1 Spe
+- Glacier
+- Feint Spurts
+- Super Drain
+- Inner Peace
+
+Octotle @ Dally Fruit
+Trait: Motivated
+60 SpA / 60 Spe / 6 SpD
+- Ball of Darkness
+- Super Drain
+- Quicksand
+- Inner Peace
+
+Glamoth @ Dally Fruit
+Trait: Motivated
+60 SpA / 60 Spe / 6 SpD
+- Ball of Darkness
+- Super Drain
+- Quicksand
+- Inner Peace
+
+Vulbrute @ Leftovers / Canul Fruit
+Trait: Steady / Steam Layer
+60 HP / 60 Def / 5 SpA / 1 Spe
+- Fire Storm / Lava Boulder
+- Super Drain
+- Feint Spurts
+- Inner Peace
+
+Humbee @ Oki Fruit
+Trait: Vaccinated
+60 Atk / 60 Spe / 6 SpD
+- Transcending
+- Smackdown
+- Double Sting
+- All In
+
+Blazitaur @ Oki Fruit
+Trait: Motivated
+60 Atk / 60 Spe / 6 SpD
+- Stampede
+- Poison Chomp
+- Turn Tail
+- Overdrive
+
+Gelaquad @ Juba Fruit
+Trait: Inverse
+60 Atk / 60 Spe / 6 SpD
+- Hydro Punch
+- Smackdown
+- Poison Chomp
+- Turn Tail
+
+Malavite @ Leftovers / Canul Fruit
+Trait: Dry Wind / Copycat
+60 HP / 60 SpD / 5 Atk / 1 Spe
+- Stone Fist / Boulder Barrage
+- Transcending
+- Splatter
+- Epiphany
+
+Toravolt @ Dally Fruit
+Trait: Zealous
+60 SpA / 60 Spe / 6 Spdef
+- Super Charge
+- Multi-Lightning Bolt
+- Spark Disc / Super Drain
+- Super Drain / Feint Spurts / Quick Sand
+
+Toravolt @ Mull Fruit
+Trait: Zealous
+60 SpA / 26 SP / 40 Spe
+- Bolt Bomb
+- Multi Lightning Bolt / Feint Spurts
+- Super Drain / Feint Spurts / Quicksand
+- Feint Spurts / Inner Peace / Turn Tail
+
+Cyberite @ Oki Fruit
+Trait: Overclocker
+60 HP / 35 Def / 30 SpD / 1 Spe
+- Transcending
+- Propellor Punch / Flying Kick
+- Super Drain
+- Overdrive / All In
+
+Ucaclaw @ Leftovers / Canul Fruit
+Trait: Humidifier / Fully Rested
+60 HP / 60 SpD / 5 Def / 1 Spe
+- 
+- Body Blast / Headbash
+- Stone Fist
+- Epiphany
+
+Sandril @ Oki Fruit / Juba Fruit / Canul Fruit
+Trait: Wet Coat
+60 Atk / 60 Spe / 6 SpD
+- Shell Drill
+- Poison Chomp
+- Taser
+- Epiphany
+
+Infinix @ Canul Fruit
+Trait: Thermogenesis
+60 Atk / 60 Spe / 6 SpD
+- Blaze Feathers
+- Phantom Spike
+- Deep Cut
+- All In / Blazing Coals
+
+Infinix @ Canul Fruit
+Trait: Thermogenesis
+60 SpA / 60 Spe / 6 SpD
+- Detonate / Fiery Breath
+- Clearing Wind
+- Feint Spurts
+- Blazing Coals
+
+Infinix @ Canul Fruit
+Trait: Thermogenesis
+60 HP / 60 Spe / 6 SpA
+- Blaze Feathers
+- Clearing Wind
+- Turn Tail
+- Blazing Coals
+
+Atlantern @ Leftovers
+Trait: Empathetic / Shiny / Hardheaded
+60 HP / 60 SpD / 6 Atk
+- Crystal Barrage
+- Headbash
+- Poison Chomp
+- Turn Tail
+
+Serpike @ Canul Fruit
+Trait: Molter
+60 HP / 60 SpD / 6 Atk
+- Poison Chomp
+- Headcrash
+- Crunch / Super Drain
+- Turn Tail / Epiphany
+
+Atlantern Balance
+Atlantern
+Infinix
+Toravolt
+Malavite
+Bearealis
+Serpike

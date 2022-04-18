@@ -4,86 +4,72 @@ body {
   transition: 0.5s;
 }
 
-.sideBtn {
+.navBar {
+  width: 100%;
+  height: 75px;
   position: fixed;
-  z-index: 1;
-  top: 50px;
-  left: 0;
-  width: 110px;
-  height: 110px;
-  transition: 0.5s;
-  background-color: hsl(200, 55%, 15%);
-  border-radius: 0px 20px 20px 0px;
-}
-
-.sideBtn:hover {
-  padding-left: 15px;
-}
-
-.sideNav {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  border-right: solid 5px hsl(200, 55%, 15%);
   z-index: 2;
   top: 0;
   left: 0;
   overflow-x: hidden;
-  transition: 0.5s;
-}
-
-.sideNav div {
-  margin: 0;
-  height: 25%;
-  text-align: center;
   background-color: hsl(180, 50%, 80%);
+  border-bottom: 1px solid hsl(180, 50%, 30%);
   transition: 0.5s;
+  display: flex;
+  flex-direction: row;
 }
 
-.sideNav div:hover {
-  background-color: hsl(186, 50%, 50%);
+.navBar div {
+  width: 10%;
+  background-repeat: no-repeat;
+}
+
+.logo {
+  background-image: url("media/LSU Logo.png");
+  background-size: 200%;
+  background-position: 25% 50%;
 }
 
 .icon {
-  background-repeat: no-repeat;
-  background-size: 35%;
-  background-position: 50% 10%;
-  transition: background-size 0.5s;
+  text-align: center;
+  background-size: 25%;
+  background-position: 50% 20%;
+  transition: 0.5s;
 }
 
 .icon:hover {
-  background-size: 40%;
+  background-color: hsl(186, 50%, 50%);
+  background-size: 28%;
 }
 
 .home {
-  background-image: url(resources/HomeShadow.png);
+  background-image: url(media/HomeShadow.png);
 }
 
 .home:hover {
-  background-image: url(resources/HomeShadow.gif);
+  background-image: url(media/HomeShadow.gif);
 }
 
 .coromon {
-  background-image: url(resources/CubzeroShadow.png);
+  background-image: url(media/CubzeroShadow.png);
 }
 
 .coromon:hover {
-  background-image: url(resources/CubzeroShadow.gif);
+  background-image: url(media/CubzeroShadow.gif);
 }
 
-.sideNav div h2 {
+.navBar div h2 {
   margin: 0;
   color: hsl(180, 50%, 30%);
   position: relative;
-  padding: 45% 0 0 0;
-  font-size: 25px;
+  padding: 35% 0 0 0;
+  font-size: 18px;
 }
 
 main {
-  margin-left: 125px;
+  margin: 100px;
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav h2 {font-size: 18px;}
+  .navBar div h2 {font-size: 12px;}
 }

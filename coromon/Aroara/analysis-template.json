@@ -1,0 +1,31 @@
+{
+    "Coromon": "",
+    "Tier": "",
+    "Overview": "",
+    "Sets":
+    [{
+        "Item": [""],
+        "Trait": [""],
+        "Potential":
+        {
+            "HP": 0,
+            "SP": 0,
+            "Atk": 0,
+            "Def": 0,
+            "SpA": 0,
+            "SpD": 0,
+            "Spe": 0
+        },
+        "Skills": [[""],[""],[""],[""]],
+        "Skill Details": "",
+        "Set Details": "",
+        "Usage Tips": "", 
+        "Team Options": ""
+    }],
+    "Other Options": "",
+    "Checks & Counters": 
+    [
+        {"": ""}
+    ],
+    "Writer": ""
+}

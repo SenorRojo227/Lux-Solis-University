@@ -1,0 +1,32 @@
+{
+    "Coromon": "Aroara",
+    "Tier": "Demo",
+    "Overview": "Aroara is one of the strongest wallbreakers in the demo due to its high damage output and amazing coverage options. It is capable of nuking the entire metagame with Glacier and Splash alone, leaving it with very few reliable checks and virtually no counters. Additionally, it's Ice typing provides it with 4 resistances allowing it to come in safely on Coromon such as Sheartooth and Slitherpin. Its main flaw stems from its lack of priority leaving it succeptible to being revenge killed by Coromon such as Pitterbyte and Beezel.",
+    "Sets":
+    [{
+        "Item": ["Canul Fruit", "Juba Fruit"],
+        "Trait": ["Clumsy Power"],
+        "Potential":
+        {
+            "HP": 60,
+            "SP": 0,
+            "Atk": 0,
+            "Def": 0,
+            "SpA": 60,
+            "SpD": 0,
+            "Spe": 6
+        },
+        "Moves": [["Glacier"],["Splash"],["Scratch"],["Beat Up", "Static Fur"]],
+        "Skills": "Glacier is Aroara's primary nuking tool. By itself, it is capable of dealing massive damage even to resisted targets such as Mino and Embaval. Splash provides Aroara with a stronger alternative to Glacier when used against fire types. This skill is far more committal, however, and does not scale with Clumsy Power making it a far riskier option in most cases. Although Aroara doesn't need more than two moves for the current meta, Beat Up does have a niche against other ice types late-game such as Froshell and opposing Aroara's. Additionally, Scatch has a niche against max Special Defense Bazzer, achieving a slightly higher damage output than that of Glacier. Static Fur provides Aroara with a way of punishing physical attackers, however, it is almost always more beneficial to simply fire off an attack than waste a turn with Static Fur.",
+        "Set Details": "Maximum HP and Special Attack are essential for living as long as possible while hitting as hard as possible. Aroara's defenses are high enough to withstand attacks from both physical and special threats without additional investment.",
+        "Usage Tips": "As a wallbreaker, Aroara should be used to punch holes in opposing teams in order for other Coromon to clean up the game later. This makes Aroara one of the best Coromon to lead the game with.",
+        "Team Options": "Late game sweepers such as Beezel, Mino, and Pitterbyte make for excellent partners for Aroara due to their ability to outspeed and finish off weakened teams. Similar to Mino, Embaval's fire-typing combined with its ability to wall out Mino entirely gives it excellent synergy with Aroara. Sheartooth's water-typing and high bulk makes it an excellent answer for the fire-types that check Aroara."
+    }],
+    "Other Options": "Investing heavily into speed can be used as an alternative to the bulky wallbreaker build, however due to how impactful 60 points in HP can be, it is often best to simply use Aroara's natural speed to outpace slower threats. Max Attack Aroara with Frost Chomp over Glacier can also be used to surprise Bazzers with powerful Scratches, granted its overall damage output will diminish significantly.",
+    "Checks & Counters": [
+        {"Bazzer": "Bazzer's natural bulk combined with heavy Special Defense investment can soak up several Glaciers while also shrugging off Aroaras other attacks."},
+        {"Fire Types": "Mino and Toruga resist Aroara's main source of damage and can put potential points into HP to avoid a 2HKO from Splash"},
+        {"Priority": "Due to Aroara's lack of priority, other priority users such as Beezel and Pitterbyte can revenge kill it when weakened."}
+    ],
+    "Writer": "SrRojo"
+}
