@@ -1,6 +1,6 @@
 import speedTiersJSON from "./speed-tiers.json" assert {type: 'json'};
 
-const speedTiers = speedTiersJSON.S1["3v3 OU"];
+const speedTiers = speedTiersJSON.S1["3v3"];
 
 window.onload = function() {
     initPage();

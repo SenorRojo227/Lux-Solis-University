@@ -41,7 +41,62 @@
     },
     "S1":
     {
-        "3v3 OU":
+        "OU":
+        {
+            "S":
+            [
+                "Glamoth",
+                "Malavite"
+            ],
+            "A+":
+            [
+                "Bearealis",
+                "Humbee",
+                "Purrghast",
+                "Serpike"
+            ],
+            "A":
+            [
+                "Atlantern",
+                "Eclyptor",
+                "Rhynobuzz",
+                "Ucaclaw"
+            ],
+            "A-":
+            [
+                "Octotle"
+            ],
+            "B":
+            [
+                "Blazitaur",
+                "Cyberite",
+                "Grimmask",
+                "Krybeest",
+                "Lumasect",
+                "Magnamire",
+                "Megalobite",
+                "Sandril",
+                "Vulbrute"
+            ],
+            "C":
+            [
+                "Ashclops",
+                "Caradune",
+                "Deecie",
+                "Gelaquad",
+                "Orotchy",
+                "Swampa",
+                "Volcadon"
+            ],
+            "D":
+            [
+                "Armadon",
+                "Golbeak",
+                "Hountrion",
+                "Mudma"
+            ]
+        },
+        "3v3":
         {
             "S":
             [

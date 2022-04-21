@@ -70,6 +70,16 @@ main {
   margin: 100px;
 }
 
+.resource {
+  margin: 20px;
+  padding: 10px;
+  background-color: hsl(180, 50%, 80%);
+  height: 50px;
+  width: auto;
+  border: 2px solid hsl(180, 50%, 30%);
+  border-radius: 5px;
+}
+
 @media screen and (max-height: 450px) {
   .navBar div h2 {font-size: 12px;}
 }
